@@ -1,0 +1,14 @@
+C:\Users\84902\source\repos\Baitap3\Baitap3\bin\Debug\netcoreapp3.1\Baitap3.exe
+C:\Users\84902\source\repos\Baitap3\Baitap3\bin\Debug\netcoreapp3.1\Baitap3.deps.json
+C:\Users\84902\source\repos\Baitap3\Baitap3\bin\Debug\netcoreapp3.1\Baitap3.runtimeconfig.json
+C:\Users\84902\source\repos\Baitap3\Baitap3\bin\Debug\netcoreapp3.1\Baitap3.runtimeconfig.dev.json
+C:\Users\84902\source\repos\Baitap3\Baitap3\bin\Debug\netcoreapp3.1\Baitap3.dll
+C:\Users\84902\source\repos\Baitap3\Baitap3\bin\Debug\netcoreapp3.1\Baitap3.pdb
+C:\Users\84902\source\repos\Baitap3\Baitap3\obj\Debug\netcoreapp3.1\Baitap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84902\source\repos\Baitap3\Baitap3\obj\Debug\netcoreapp3.1\Baitap3.AssemblyInfoInputs.cache
+C:\Users\84902\source\repos\Baitap3\Baitap3\obj\Debug\netcoreapp3.1\Baitap3.AssemblyInfo.cs
+C:\Users\84902\source\repos\Baitap3\Baitap3\obj\Debug\netcoreapp3.1\Baitap3.csproj.CoreCompileInputs.cache
+C:\Users\84902\source\repos\Baitap3\Baitap3\obj\Debug\netcoreapp3.1\Baitap3.dll
+C:\Users\84902\source\repos\Baitap3\Baitap3\obj\Debug\netcoreapp3.1\Baitap3.pdb
+C:\Users\84902\source\repos\Baitap3\Baitap3\obj\Debug\netcoreapp3.1\Baitap3.genruntimeconfig.cache
+C:\Users\84902\source\repos\Baitap3\Baitap3\obj\Debug\netcoreapp3.1\Baitap3.csproj.AssemblyReference.cache
